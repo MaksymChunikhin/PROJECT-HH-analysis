@@ -33,12 +33,6 @@
 2. **Курс валют:**  
 [ExchangeRates.csv](https://drive.google.com/file/d/114ZbGiIco9SOC5XHZybmTMN0p7y_Lh19/view?usp=sharing)  
 
-## Структура проекта
-
-- `data/` — исходные файлы данных  
-- `notebooks/` — Jupyter ноутбуки с анализом данных  
-- `README.md` — описание проекта и используемых данных  
-
 ## Результаты анализа
 
 В рамках проекта были получены:
