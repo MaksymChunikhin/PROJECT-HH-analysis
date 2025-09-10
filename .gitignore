@@ -8,3 +8,23 @@ Thumbs.db
 *.xlsx
 dst-3.0_16_1_hh_database.csv
 ExchangeRates.csv
+
+# Системные файлы Windows
+desktop.ini
+Thumbs.db
+
+# Файлы macOS
+.DS_Store
+
+# Локальные настройки VS Code
+.vscode/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Локальные данные/бэкапы
+*.log
+*.tmp
