@@ -1,0 +1,3 @@
+# Игнорируем файлы данных
+dst-3.0_16_1_hh_database.*
+ExchangeRates.*
